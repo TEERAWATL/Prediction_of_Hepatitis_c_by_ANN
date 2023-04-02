@@ -1,0 +1,1 @@
+# Prediction_of_Hepatitis_c_by_ANN
